@@ -1,4 +1,4 @@
-#  Budget App (Python)
+#  Budget App 
 
 ## Overview
 This project was developed as part of the FreeCodeCamp Scientific Computing with Python certification to demonstrate object-oriented programming, financial transaction management, and formatted text output.
